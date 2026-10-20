@@ -7,4 +7,4 @@ projet de validation de la matiere AGL supervisé par DR MORIE à l'université 
 - KOUAO ADOU PERES DESALES
 - KOFFI NANGO CHRIST ANGENOR
 - EBROTTIE CHRYS JUNIOR
-**MIAGE L3**
+- **MIAGE L3**
